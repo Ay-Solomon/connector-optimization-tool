@@ -117,6 +117,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or feedback, feel free to reach out:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: [AY Solomon]
+- **Email**: [Ay.solomon01@gmail.com]
+- **GitHub**: [Ay-Solomon]
